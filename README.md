@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Codercat15
-- 👀 I’m interested in HTML.CSS.C+,JAVASCRIPT and python 
+- 👀 I’m interested in HTML,CSS,JAVASCRIPT 
 - 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on academic projects 
 - 📫 How to reach me 
